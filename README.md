@@ -29,7 +29,7 @@ As of the current demonstration, the generated images might not yet reach clinic
 * :rocket: GPU Accelerator: T4 (2 units)
 * :file_folder: Dataset: **[Chest X-ray Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)** 
 * :bar_chart: Dataset Size: 3875
-* :frame_photo: Output Image Size: 512x512
+* :framed_picture: Output Image Size: 512x512
 * :gear: Optimizer: Adam
 * :chart_with_upwards_trend: Learning Rate: 0.0002
 * :fishing_pole_and_fish: Loss Function: Binary Crossentropy
