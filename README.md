@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/himisir/medical-image-generation-with-gans-tensorflow/blob/main/src/img2.png" width="800px" />
+  <img src="https://github.com/himisir/medical-image-generation-with-gans-tensorflow/blob/main/src/X-ray.png" width="800px" />
 </div>
 
 <h1 align="center">Generative Adversarial Networks (GANs) for Synthetic Pneumonia-Positive X-ray Images</h1>
@@ -38,14 +38,6 @@ As of the current demonstration, the generated images might not yet reach clinic
 
 ---
 
-## Run on Kaggle
-
-To run this project on Kaggle, click the button below:
-
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/asif00/medical-image-generation-with-gans)
-
----
-
 ## Results
 
 <details>
@@ -68,3 +60,12 @@ To run this project on Kaggle, click the button below:
 - :microscope: Generate highly realistic and accurate pneumonia-positive X-ray images.
 - :1234: Augment existing datasets of pneumonia-positive X-rays.
 
+---
+
+## Run on Kaggle
+
+To run this project on Kaggle, click the button below:
+
+[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/asif00/medical-image-generation-with-gans)
+
+---
